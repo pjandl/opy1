@@ -1,7 +1,7 @@
 # opy1
 Oficina Python 1 (Básico)
 ![Oficina Python 1 (básico)](https://github.com/pjandl/opy1/blob/master/repo-cover-opy1.png?raw=true)
-Neste repositórios estão os exemplos tratados na Oficina de Python 1 (básico).
+Neste repositório estão os exemplos tratados na Oficina de Python 1 (básico).
 
 Dia 1.
 * Python: breve histórico, visão geral
