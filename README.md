@@ -3,7 +3,9 @@ Oficina Python 1 (Básico)
 ![Oficina Python 1 (básico)](https://github.com/pjandl/opy1/blob/master/repo-cover-opy1.png?raw=true)
 Neste repositório estão disponíveis os materiais de apoio da Oficina de Python 1 (básico), que são:
 * código-fonte dos exemplos;
-* notebooks Jupyter com fragmentos de código comentados.
+* Jupyter notebooks com fragmentos de código comentados.
+
+Os Jupyter notebooks pode ser experimentados em:<br/>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pjandl/opy1/HEAD)
 
 O conteúdo do curso
@@ -14,7 +16,7 @@ Unidade 1.
 * Sequenciação/Computação
 * Tipos de dados, variáveis, operadores e expressões
 * Entrada e saída básica
-----------------------------------------
+<hr/>
 Unidade 2.
 * Repetição
 * Repetição condicional: while
@@ -22,17 +24,18 @@ Unidade 2.
 * Decisão
 * Expressão de condições
 * if e if/else, if/elif/else
-----------------------------------------
+<hr/>
 Unidade 3.
 * Funções
 * Nativas/Embutidas
 * Definidas pelo programador
 * Uso de bibliotecas
-----------------------------------------
+<hr/>
 Unidade 4.
 * Listas
 * Tuplas
 * Conjuntos
 * Dicionários
 * Aplicações das estruturas de dados
-----------------------------------------
+<hr/>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este obra está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional</a>.
