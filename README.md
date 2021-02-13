@@ -6,7 +6,7 @@
 <li>Jupyter notebooks com fragmentos de código comentados.</li>
 </ul>
 <p>Os Jupyter notebooks pode ser experimentados em:<br/>
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pjandl/opy1/HEAD)</p>
+<a href='https://mybinder.org/v2/gh/pjandl/opy1/HEAD'><img src='https://mybinder.org/badge_logo.svg' /></a></p>
 
 <h3>Conteúdo do curso</h3>
 
