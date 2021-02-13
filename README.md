@@ -4,6 +4,7 @@ Oficina Python 1 (Básico)
 Neste repositório estão disponíveis os materiais de apoio da Oficina de Python 1 (básico), que são:
 * código-fonte dos exemplos;
 * notebooks Jupyter com fragmentos de código comentados.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pjandl/opy1/HEAD)
 
 O conteúdo do curso
 
