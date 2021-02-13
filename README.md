@@ -1,6 +1,5 @@
-# opy1
 <h1>Oficina Python 1 (Básico)</h1>
-![Oficina Python 1 (básico)](https://github.com/pjandl/opy1/blob/master/repo-cover-opy1.png?raw=true)
+<img src='https://github.com/pjandl/opy1/blob/master/repo-cover-opy1.png?raw=true' alt='![Oficina Python 1 (básico)]' />
 <p>Neste repositório estão disponíveis os materiais de apoio da Oficina de Python 1 (básico), que são:</p>
 <ul>
 <li>código-fonte dos exemplos;</li>
