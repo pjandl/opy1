@@ -3,6 +3,7 @@
 <p>Neste repositório estão disponíveis os materiais de apoio da Oficina de Python 1 (básico), que são:</p>
 <ul>
 <li>código-fonte dos exemplos;</li>
+<li>listas de exercícios resolvidas;</li>
 <li>Jupyter notebooks com fragmentos de código comentados.</li>
 </ul>
 <p>Os Jupyter notebooks pode ser experimentados em:<br/>
