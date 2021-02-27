@@ -11,7 +11,7 @@
 
 <h3>Conteúdo do curso</h3>
 
-<h4>Unidade 1.</h4>
+<h4><a href='https://github.com/pjandl/opy1/tree/master/Dia_1'>Unidade 1</a>.</h4>
 <ul>
 <li>Python: breve histórico, visão geral</li>
 <li>Instalação do Python e uso do IDLE</li>
@@ -21,7 +21,7 @@
 <li>Entrada e saída básica</li>
 </ul>
 <hr/>
-<h4>Unidade 2.</h4>
+<h4><a href='https://github.com/pjandl/opy1/tree/master/Dia_2'>Unidade 2</a>.</h4>
 <ul>
 <li>Repetição</li>
 <li>Repetição condicional: while</li>
@@ -30,7 +30,7 @@
 <li>Expressão de condições</li>
 </ul>
 <hr/>
-<h4>Unidade 3.</h4>
+<h4><a href='https://github.com/pjandl/opy1/tree/master/Dia_3'>Unidade 3</a>.</h4>
 <ul>
 <li>Funções</li>
 <li>Passagem de parâmetros e retorno de valor</li>
@@ -39,7 +39,7 @@
 <li>Uso de bibliotecas</li>
 </ul>
 <hr/>
-<h4>Unidade 4.</h4>
+<h4><a href='https://github.com/pjandl/opy1/tree/master/Dia_4'>Unidade 4</a>.</h4>
 <ul>
 <li>Listas</li>
 <li>Tuplas</li>
