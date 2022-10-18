@@ -1,7 +1,9 @@
 <h1>Oficina Python 1 (Básico)</h1>
+<h3> Prof. Peter Jandl Jr</h3>
 <img src='https://github.com/pjandl/opy1/blob/master/repo-cover-opy1.png?raw=true' alt='![Oficina Python 1 (básico)]' />
 <p>Neste repositório estão disponíveis os materiais de apoio da Oficina de Python 1 (básico), que são:</p>
 <ul>
+<li>slides com conceitos de programação e exemplificação</li>
 <li>código-fonte dos exemplos;</li>
 <li>listas de exercícios resolvidas;</li>
 <li>Jupyter notebooks com fragmentos de código comentados.</li>
